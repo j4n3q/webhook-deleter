@@ -19,7 +19,7 @@
 </div>
 
    <div class="first">
-        <h1 class="webhook-deleter">discord webhook deleter</h1>
+        <h1 class="webhook-deleter">DISCORD Webhook Deleter</h1>
     </div>
         <label for="webhook-url" class="webhook-url-label">enter webhook url</label>
         <div class="webhook-input">
@@ -30,8 +30,7 @@
         <button @click="deleteWebhook" class="delete-btn" id="delete-btn">Delete</button>
        </div>
 	   <div class="footer">
-		<a href="https://github.com/spreehertz/webhook-deleter">source (github)</a>
-		<p class="madewith-text">made with ♥ by <u><span class="font-medium">SpreeHertz</span></u>.</p>
+		<p class="madewith-text">made with ♥ by <u><span class="font-medium">Janeq</span></u>.</p>
 	   </div>
 </template>
 
